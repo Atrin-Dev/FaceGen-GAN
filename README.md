@@ -73,7 +73,7 @@ def gen_noise(num, z_dim, device='cuda'):
 ## Results
 
 ### Loss Plot
-![Loss Plot](results/loss10.png)
+![Loss Plot](results/loss50.png)
 
 ### Generated Faces
 **Epoch 10:**
