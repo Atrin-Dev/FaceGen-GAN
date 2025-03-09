@@ -69,3 +69,15 @@ def gen_noise(num, z_dim, device='cuda'):
 - **num:** Batch size (e.g., `128`)
 - **z_dim:** Dimension of the noise vector (e.g., `200`)
 - **device:** Computing device, either `'cuda'` or `'cpu'`
+
+## Results
+
+### Loss Plot
+![Loss Plot](results/loss10.png)
+
+### Generated Faces
+**Epoch 10:**
+![Generated Faces Epoch 10](results/plot10.png)
+
+**Epoch 50:**
+![Generated Faces Epoch 50](results/plot50.png)
